@@ -3,6 +3,10 @@
   margin-top: 20px;
 }
 
+.header .nav .active {
+  color: #dc3545;
+}
+
 .header h1 {
   margin: 20px 0;
 }
