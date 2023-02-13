@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <div className="header">
       <h1>CRUD APP</h1>
-      <ul className="nav">
+      <ul className="nav rounded-1">
         <li>
           <NavLink to="/" end>
             Home
